@@ -1,0 +1,11 @@
+10
+1 abdullah 10000.00
+2 abdullah 0.00
+3 kaif 2000.00
+4 hamza 0.00
+5 usman 67000.00
+6 ghani 0.00
+7 usman 0.00
+8 gani 0.00
+9 aqdas 0.00
+10 naeem 0.00
